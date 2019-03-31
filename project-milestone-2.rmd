@@ -4,7 +4,6 @@ author: "Chris Onesti"
 date: "March 30, 2019"
 output: html_document
 ---
-##Project Milestone
 
 ##Presidential and Senate Twitter Activity: Trump's First 9 Months in Office
 
